@@ -1,0 +1,2 @@
+# training_HC_SmartHospital
+HCSmartHospital
